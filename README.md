@@ -1,4 +1,4 @@
-# User-Analytics-In-the-Telecoomunication-Induastry
+# User-Analytics-In-the-Telecomunication-Industry
 ## An analysis of TellCo's data, to see if it's worth purchasing.
 You are working for a wealthy investor that specialises in purchasing assets that are undervalued.  This investor’s due diligence on all purchases includes a detailed analysis of the data that underlies the business, to try to understand the fundamentals of the business and especially to identify opportunities to drive profitability by changing the focus of which products or services are being offered.
 
