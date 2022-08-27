@@ -1,5 +1,6 @@
 import streamlit as st
-
+from dashboard.dashboard_Tellcodata import Useroverview, userengagement
+from multiapp import MultiApp
 """Frameworks for running multiple Streamlit applications as a single app.
 """
 
@@ -42,8 +43,8 @@ class MultiApp:
         })
 
     def run(self):
-        # app = st.sidebar.radio(
-        app = st.sidebar.selectbox(
+        Useroverview =st.sidebar.radio(
+        userengagement = st.sidebar.selectbox(
             'Navigation',
             self.apps,
             format_func=lambda app: app['title'])
